@@ -1,3 +1,6 @@
+// Name: Yawen Liu
+    // Email: yliu2253@wisc.edu
+    // CS Login: yliu2253
 /*
  * Test the use of the Color method
  */

@@ -1,3 +1,7 @@
+// Color.java
+// Name: Yawen Liu
+// Email: yliu2253@wisc.edu
+// CS Login: yliu2253
 /*
  *      Color class
  */
