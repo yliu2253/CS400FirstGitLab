@@ -1,0 +1,9 @@
+Script started on Sun Jun 23 03:53:12 2024
+Restored session: Sun Jun 23 03:20:54 CST 2024
+[1m[7m%[27m[1m[0m                                                                        ]7;file://liuyawendeMacBook-Air.local/Users/liuyawen/Desktop/CS400/CS400/CS400FirstGitLab[0m[27m[24m[J(base) liuyawen@liuyawendeMacBook-Air CS400FirstGitLab % [K[?2004h[7mscript LabW3Git[7mC[7mommitLog.txt[27m[K
+[K[A[A[57C[27ms[27mc[27mr[27mi[27mp[27mt[27m [27mL[27ma[27mb[27mW[27m3[27mG[27mi[27mtC[27mo[27mm[27mm[27mi[27mt[27mL[27mo[27mg[27m.[27mt[27mx[27mt[1B[K[A[13C           C [K[A[71C[K[1B[K[A[71C           s  mmake[?2004l[1Bjava -cp Library.jar:. Main
+Beggining of testing the color class:
+What color do you want to change to? 
+red
+The new color is:red
+[1m[7m%[27m[1m[0m                                                                        ]7;file://liuyawendeMacBook-Air.local/Users/liuyawen/Desktop/CS400/CS400/CS400FirstGitLab[0m[27m[24m[J(base) liuyawen@liuyawendeMacBook-Air CS400FirstGitLab % [K[?2004h
